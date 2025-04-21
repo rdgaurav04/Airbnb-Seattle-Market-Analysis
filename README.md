@@ -20,6 +20,6 @@ This project visualizes Airbnb listings data in Seattle using Tableau to uncover
 - Tableau Public Dashboard: *[https://public.tableau.com/app/profile/gaurav.kumar4299/viz/AirBnBFullProject_17452497599100/Dashboard1?publish=yes]*
 
 ##  Files Included
-- Tableau Full Project.xlsx — The dataset used
+- Tableau Full Project.xlsx — The dataset used [**xlsx file link**](https://docs.google.com/spreadsheets/d/1yAyyTPu7s_RhFJdqGNxJKlbgCiG9QZ77/edit?usp=drive_link&ouid=109621035657044791862&rtpof=true&sd=true)
 - dashboard_screenshot.png — Image of the final dashboard
 - README.md — Project overview and details
